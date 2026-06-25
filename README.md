@@ -4,6 +4,9 @@
 **Developer:** Oyekale Blessing Olaoluwa
 **Built with:** AIDE (Android IDE for mobile), Java, XML
 
+## Overview
+A multi-mode calculator app supporting basic arithmetic, scientific/trigonometric functions, matrix operations, and statistics/combinatorics — built entirely on a phone using AIDE rather than Android Studio.
+
 ## Installation & Setup
 
 ### Option A — Build from source
@@ -22,8 +25,6 @@
 
 **Minimum Android version:** API 24 (Android 7.0 Nougat) or higher
 
-## Overview
-A multi-mode calculator app supporting basic arithmetic, scientific/trigonometric functions, matrix operations, and statistics/combinatorics — built entirely on a phone using AIDE rather than Android Studio.
 
 ## Screenshots
 
